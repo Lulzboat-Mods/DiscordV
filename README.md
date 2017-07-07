@@ -1,1 +1,1 @@
-# DiscordV v1.0
+# DiscordV v1.0 (Suspended)
